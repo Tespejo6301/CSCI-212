@@ -1,2 +1,4 @@
 # CSCI-212
- Object Oriented Programming in Java
+Project created in Spring 2019 <p>
+ Object Oriented Programming in Java <p>
+ First time coding in JAVA 
